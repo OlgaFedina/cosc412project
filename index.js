@@ -42,7 +42,7 @@ app.use(cors());
 
 const client = new StreamChat(process.env.API_KEY, process.env.API_SECRET);
 
-client.setUser("admin");
+client.setAnonymousUser();
 
 const channel = client.channel("messaging", "dialogflow", {
   name: "Dialogflow chat",
