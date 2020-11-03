@@ -1,0 +1,41 @@
+{
+  "apikey": "3LCwFo4MDEt2K_NP8K7EQnCwlNUjPFr3-SeDHWrrSUxy",
+  "iam_apikey_description": "Auto-generated for key c621d643-13d8-4362-863c-97044c363ec6",
+  "iam_apikey_name": "for-android-app",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/f82440d03e924e36a0b1d0fa1f1aae85::serviceid:ServiceId-eaa2953c-f536-4a1a-8e85-903fce0555f5",
+  "url": "https://api.us-east.assistant.watson.cloud.ibm.com/instances/8224568f-ca17-417b-910b-0ff02bb7526a"
+}
+
+Ana
+f09e87a5-4f15-4707-910c-bae69e37cd7e
+https://api.us-east.assistant.watson.cloud.ibm.com/instances/8224568f-ca17-417b-910b-0ff02bb7526a/v1/workspaces/f09e87a5-4f15-4707-910c-bae69e37cd7e/message
+
+Auto-generated service credentials
+DIcE7JHUgJo5jhfbGce_v-tQwN3eDw55f6PfRc_h4Q_b
+
+for-android-app
+3LCwFo4MDEt2K_NP8K7EQnCwlNUjPFr3-SeDHWrrSUxy
+
+assistant ID:
+91fe4ab1-3a4e-401a-ae58-20681b52c973\
+
+STT creds:
+{
+  "apikey": "c674mxyuVfOYKOwAlvZf66UyJxj1Ex7vixjnZtxotOHG",
+  "iam_apikey_description": "Auto-generated for key 53c0b747-d3a4-4364-af27-6a5004d8c3a3",
+  "iam_apikey_name": "for-android-app",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/f82440d03e924e36a0b1d0fa1f1aae85::serviceid:ServiceId-fe7cf956-7493-4b13-9dd5-820f3ee9c2b4",
+  "url": "https://api.us-east.speech-to-text.watson.cloud.ibm.com/instances/0f4a3462-2669-44a2-b6ec-d44817a9f7b9"
+}
+
+TTS creds:
+{
+  "apikey": "JO6MaMxZiNKE-Cd04tVpY-cmqCO6VKXqX9Q-gTZOlTD9",
+  "iam_apikey_description": "Auto-generated for key e466ea59-6540-48fe-b00d-6b01021d19c8",
+  "iam_apikey_name": "for-android-app",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/f82440d03e924e36a0b1d0fa1f1aae85::serviceid:ServiceId-e9faaa4e-3358-41f1-af8d-fef5085d4408",
+  "url": "https://api.us-east.text-to-speech.watson.cloud.ibm.com/instances/9f2258e7-c41a-4b8c-9e53-0f34d75d4489"
+}
