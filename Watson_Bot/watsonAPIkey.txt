@@ -1,41 +1,34 @@
+andorid bot creds:
 {
-  "apikey": "3LCwFo4MDEt2K_NP8K7EQnCwlNUjPFr3-SeDHWrrSUxy",
-  "iam_apikey_description": "Auto-generated for key c621d643-13d8-4362-863c-97044c363ec6",
-  "iam_apikey_name": "for-android-app",
+  "apikey": "_cZqlBmf2ckhbqmgA3jmVraNCaq4_GTj0q65czIGdoxt",
+  "iam_apikey_description": "Auto-generated for key 8a75dbe4-d01a-4943-813c-501847b903de",
+  "iam_apikey_name": "android",
   "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
-  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/f82440d03e924e36a0b1d0fa1f1aae85::serviceid:ServiceId-eaa2953c-f536-4a1a-8e85-903fce0555f5",
-  "url": "https://api.us-east.assistant.watson.cloud.ibm.com/instances/8224568f-ca17-417b-910b-0ff02bb7526a"
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/f82440d03e924e36a0b1d0fa1f1aae85::serviceid:ServiceId-dab277d1-b4b9-4b91-9374-93ece8a3b082",
+  "url": "https://api.us-south.assistant.watson.cloud.ibm.com/instances/48cca0a6-852c-4b58-a8cf-f61aac561ab3"
 }
 
-Ana
-f09e87a5-4f15-4707-910c-bae69e37cd7e
-https://api.us-east.assistant.watson.cloud.ibm.com/instances/8224568f-ca17-417b-910b-0ff02bb7526a/v1/workspaces/f09e87a5-4f15-4707-910c-bae69e37cd7e/message
-
-Auto-generated service credentials
-DIcE7JHUgJo5jhfbGce_v-tQwN3eDw55f6PfRc_h4Q_b
-
-for-android-app
-3LCwFo4MDEt2K_NP8K7EQnCwlNUjPFr3-SeDHWrrSUxy
-
-assistant ID:
-91fe4ab1-3a4e-401a-ae58-20681b52c973\
 
 STT creds:
 {
-  "apikey": "c674mxyuVfOYKOwAlvZf66UyJxj1Ex7vixjnZtxotOHG",
-  "iam_apikey_description": "Auto-generated for key 53c0b747-d3a4-4364-af27-6a5004d8c3a3",
-  "iam_apikey_name": "for-android-app",
+  "apikey": "TCeeHo7xUHYAaO1SXEKh4U9o3rg9oVaCGkOMHNRjqkIl",
+  "iam_apikey_description": "Auto-generated for key 782a6697-2398-485a-b8be-2eff7a3bc3ca",
+  "iam_apikey_name": "android",
   "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
-  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/f82440d03e924e36a0b1d0fa1f1aae85::serviceid:ServiceId-fe7cf956-7493-4b13-9dd5-820f3ee9c2b4",
-  "url": "https://api.us-east.speech-to-text.watson.cloud.ibm.com/instances/0f4a3462-2669-44a2-b6ec-d44817a9f7b9"
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/f82440d03e924e36a0b1d0fa1f1aae85::serviceid:ServiceId-aa5d13bc-025e-4443-9394-a8d776e08c69",
+  "url": "https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/5500ac74-dceb-4491-b05d-b65cd0961948"
 }
+
 
 TTS creds:
 {
-  "apikey": "JO6MaMxZiNKE-Cd04tVpY-cmqCO6VKXqX9Q-gTZOlTD9",
-  "iam_apikey_description": "Auto-generated for key e466ea59-6540-48fe-b00d-6b01021d19c8",
-  "iam_apikey_name": "for-android-app",
+  "apikey": "F_xCy_VvCxsec0H7ypriP_TPUaWcK0fUjXeJyCAir8Qr",
+  "iam_apikey_description": "Auto-generated for key 77728a02-97df-4d7d-a572-6629ce3f0723",
+  "iam_apikey_name": "android",
   "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
-  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/f82440d03e924e36a0b1d0fa1f1aae85::serviceid:ServiceId-e9faaa4e-3358-41f1-af8d-fef5085d4408",
-  "url": "https://api.us-east.text-to-speech.watson.cloud.ibm.com/instances/9f2258e7-c41a-4b8c-9e53-0f34d75d4489"
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/f82440d03e924e36a0b1d0fa1f1aae85::serviceid:ServiceId-15a551fc-7553-4ef9-bc6a-863732343d98",
+  "url": "https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/610deb98-7d8f-4517-84e5-4e466b306d96"
 }
+
+Assistant ID:
+37d4ab14-966e-4258-9eee-b697a3555728
