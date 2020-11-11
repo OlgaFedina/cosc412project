@@ -1,8 +1,0 @@
-url:http://djustice-android.tumblr.com
-name:Gideon
-email:unknown@gmail.com
-gender:AI
-botmaster:KK
-organization:TBC
-version:0.0.1
-
