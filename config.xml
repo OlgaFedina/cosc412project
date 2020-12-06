@@ -3,10 +3,10 @@
 
     <!--Watson Assistant service credentials-->
     <!-- REPLACE `ASSISTANT_ID_HERE` with ID of the Assistant to use -->
-    <string name="assistant_id">7fc3dbe1-fdd7-4b29-bf9c-3658ba827fdd</string>
+    <string name="assistant_id">2607df60-41b4-4cda-8915-67f328fdde82</string>
 
     <!-- REPLACE `ASSISTANT_API_KEY_HERE` with Watson Assistant service API Key-->
-    <string name="assistant_apikey">_cZqlBmf2ckhbqmgA3jmVraNCaq4_GTj0q65czIGdoxt</string>
+    <string name="assistant_apikey">YfrQ96cPCOsPv8a12qjGrIq1CazwbBcM04Ie6XUw5IT7</string>
 
     <!-- The URL provided below is for DALLAS region/location -->
     <!-- If the Assistant service is created in another region/lpcation -->
